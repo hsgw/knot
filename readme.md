@@ -11,3 +11,7 @@ WIP
 ## Firmware
 
 https://github.com/hsgw/zmk-config-knot
+
+## case 3D models
+
+[3dmodels](3dmodels/)
